@@ -41,7 +41,7 @@ p {
   margin: 0 0 30px; }
 
 a {
-  color: #f03838;
+  color: #f3610f;
   text-decoration: none; }
 
 ul, ol {
@@ -152,10 +152,10 @@ table {
   padding: 10px 12px;
   text-transform: uppercase; }
   .button:hover {
-    background: #f03838; }
+    background: #f3610f; }
 
 .button-square {
-  background: #f03838;
+  background: #f3610f;
   color: #FFF;
   float: left;
   font-size: 17px;
@@ -185,7 +185,7 @@ table {
   text-transform: uppercase; }
   .site-title a {
     float: left;
-    background: #f03838;
+    background: #f3610f;
     color: #FEFEFE;
     padding: 5px 10px 6px; }
     .site-title a:hover {
@@ -251,7 +251,7 @@ table {
     width: 100px; }
 
 .post-content a:hover {
-  border-bottom: 1px dotted #f03838;
+  border-bottom: 1px dotted #f3610f;
   padding: 0 0 2px; }
 .post-content:last-child {
   margin-bottom: 0; }
@@ -277,7 +277,7 @@ table {
 .share {
   float: right; }
   .share a {
-    background: #f03838;
+    background: #f3610f;
     color: #FFF;
     display: inline-block;
     font-size: 16px;
@@ -295,7 +295,7 @@ table {
 .newer-posts,
 .older-posts {
   float: left;
-  background: #f03838;
+  background: #f3610f;
   color: #FEFEFE;
   font-size: 14px;
   font-weight: 600;
@@ -333,10 +333,10 @@ table {
     padding: 20px 5px; }
     .post-stub a:hover {
       background: #FCF5F5;
-      color: #f03838;
+      color: #f3610f;
       padding: 20px 12px; }
       .post-stub a:hover .post-stub-tag {
-        background: #f03838; }
+        background: #f3610f; }
 
 .post-stub-tag {
   background: #303030;
@@ -398,14 +398,14 @@ table {
 /* NProgress */
 /* ============================================================ */
 #nprogress .bar {
-  background: #f03838; }
+  background: #f3610f; }
 
 #nprogress .peg {
-  box-shadow: 0 0 10px #f03838, 0 0 5px #f03838; }
+  box-shadow: 0 0 10px #f3610f, 0 0 5px #f3610f; }
 
 #nprogress .spinner-icon {
-  border-top-color: #f03838;
-  border-left-color: #f03838; }
+  border-top-color: #f3610f;
+  border-left-color: #f3610f; }
 
 /* ============================================================ */
 /* Media Queries */
